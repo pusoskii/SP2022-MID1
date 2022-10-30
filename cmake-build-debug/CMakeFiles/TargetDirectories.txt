@@ -1,0 +1,15 @@
+C:/Users/Pusoski Hristijan/CLionProjects/SP2022_MID1/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/Pusoski Hristijan/CLionProjects/SP2022_MID1/cmake-build-debug/CMakeFiles/aud-1-task-1.dir
+C:/Users/Pusoski Hristijan/CLionProjects/SP2022_MID1/cmake-build-debug/CMakeFiles/aud-1-task-2.dir
+C:/Users/Pusoski Hristijan/CLionProjects/SP2022_MID1/cmake-build-debug/CMakeFiles/aud-1-task-3.dir
+C:/Users/Pusoski Hristijan/CLionProjects/SP2022_MID1/cmake-build-debug/CMakeFiles/aud-1-task-4.dir
+C:/Users/Pusoski Hristijan/CLionProjects/SP2022_MID1/cmake-build-debug/CMakeFiles/aud-1-task-5.dir
+C:/Users/Pusoski Hristijan/CLionProjects/SP2022_MID1/cmake-build-debug/CMakeFiles/aud-1-task-6.dir
+C:/Users/Pusoski Hristijan/CLionProjects/SP2022_MID1/cmake-build-debug/CMakeFiles/aud-1-task-7.dir
+C:/Users/Pusoski Hristijan/CLionProjects/SP2022_MID1/cmake-build-debug/CMakeFiles/aud-1-task-8.dir
+C:/Users/Pusoski Hristijan/CLionProjects/SP2022_MID1/cmake-build-debug/CMakeFiles/aud-1-task-9.dir
+C:/Users/Pusoski Hristijan/CLionProjects/SP2022_MID1/cmake-build-debug/CMakeFiles/lab-1-task-1.dir
+C:/Users/Pusoski Hristijan/CLionProjects/SP2022_MID1/cmake-build-debug/CMakeFiles/lab-1-task-2.dir
+C:/Users/Pusoski Hristijan/CLionProjects/SP2022_MID1/cmake-build-debug/CMakeFiles/lab-1-task-3.dir
+C:/Users/Pusoski Hristijan/CLionProjects/SP2022_MID1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pusoski Hristijan/CLionProjects/SP2022_MID1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
