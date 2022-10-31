@@ -1,3 +1,0 @@
-"D:\JetBrains FINKI\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\add-ex-2.dir/objects.a
-"D:\JetBrains FINKI\CLion 2022.2.3\bin\mingw\bin\ar.exe" qc CMakeFiles\add-ex-2.dir/objects.a @CMakeFiles\add-ex-2.dir\objects1.rsp
-"D:\JetBrains FINKI\CLion 2022.2.3\bin\mingw\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\add-ex-2.dir/objects.a -Wl,--no-whole-archive -o add-ex-2.exe -Wl,--out-implib,libadd-ex-2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\add-ex-2.dir\linklibs.rsp

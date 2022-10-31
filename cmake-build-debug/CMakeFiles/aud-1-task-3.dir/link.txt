@@ -1,3 +1,0 @@
-"D:\JetBrains FINKI\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\aud-1-task-3.dir/objects.a
-"D:\JetBrains FINKI\CLion 2022.2.3\bin\mingw\bin\ar.exe" qc CMakeFiles\aud-1-task-3.dir/objects.a @CMakeFiles\aud-1-task-3.dir\objects1.rsp
-"D:\JetBrains FINKI\CLion 2022.2.3\bin\mingw\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\aud-1-task-3.dir/objects.a -Wl,--no-whole-archive -o aud-1-task-3.exe -Wl,--out-implib,libaud-1-task-3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\aud-1-task-3.dir\linklibs.rsp
