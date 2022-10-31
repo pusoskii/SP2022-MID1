@@ -1,0 +1,3 @@
+"D:\JetBrains FINKI\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\lab-1-task-2.dir/objects.a
+"D:\JetBrains FINKI\CLion 2022.2.3\bin\mingw\bin\ar.exe" qc CMakeFiles\lab-1-task-2.dir/objects.a @CMakeFiles\lab-1-task-2.dir\objects1.rsp
+"D:\JetBrains FINKI\CLion 2022.2.3\bin\mingw\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\lab-1-task-2.dir/objects.a -Wl,--no-whole-archive -o lab-1-task-2.exe -Wl,--out-implib,liblab-1-task-2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lab-1-task-2.dir\linklibs.rsp

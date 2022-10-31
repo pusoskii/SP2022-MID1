@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SP2022_MID1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-1">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-1"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-1/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-1/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-2">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-2"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-2/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-2/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-3">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-3"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-3/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-3/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-4">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-4"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-4/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-4/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-5">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-5"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-5/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-5/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-6">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-6"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-6/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-6/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-7">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-7"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-7/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-7/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-8">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-8"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-8/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-8/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-9">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-9"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aud-1-task-9/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/aud-1-task-9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 aud-1-task-9/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab-1-task-1">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/lab-1-task-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab-1-task-1"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab-1-task-1/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/lab-1-task-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab-1-task-1/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab-1-task-2">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/lab-1-task-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab-1-task-2"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab-1-task-2/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/lab-1-task-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab-1-task-2/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab-1-task-3">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/lab-1-task-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab-1-task-3"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab-1-task-3/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/lab-1-task-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab-1-task-3/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="add-ex-1">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/add-ex-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 add-ex-1"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="add-ex-1/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/add-ex-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 add-ex-1/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="add-ex-2">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/add-ex-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 add-ex-2"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="add-ex-2/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/add-ex-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 add-ex-2/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="add-ex-3">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/add-ex-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 add-ex-3"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="add-ex-3/fast">
+				<Option output="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/add-ex-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 add-ex-3/fast"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains FINKI/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/additional-exercises/ex1.c">
+			<Option target="add-ex-1"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/additional-exercises/ex2.c">
+			<Option target="add-ex-2"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/additional-exercises/ex3.c">
+			<Option target="add-ex-3"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/auditory-exercises/aud-ex-1/task1.c">
+			<Option target="aud-1-task-1"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/auditory-exercises/aud-ex-1/task2.c">
+			<Option target="aud-1-task-2"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/auditory-exercises/aud-ex-1/task3.c">
+			<Option target="aud-1-task-3"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/auditory-exercises/aud-ex-1/task4.c">
+			<Option target="aud-1-task-4"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/auditory-exercises/aud-ex-1/task5.c">
+			<Option target="aud-1-task-5"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/auditory-exercises/aud-ex-1/task6.c">
+			<Option target="aud-1-task-6"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/auditory-exercises/aud-ex-1/task7.c">
+			<Option target="aud-1-task-7"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/auditory-exercises/aud-ex-1/task8.c">
+			<Option target="aud-1-task-8"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/auditory-exercises/aud-ex-1/task9.c">
+			<Option target="aud-1-task-9"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/laboratory-exercises/lab-ex-1/task1.c">
+			<Option target="lab-1-task-1"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/laboratory-exercises/lab-ex-1/task2.c">
+			<Option target="lab-1-task-2"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/laboratory-exercises/lab-ex-1/task3.c">
+			<Option target="lab-1-task-3"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/main.c">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/Pusoski Hristijan/CLionProjects/SP2022-MID1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
