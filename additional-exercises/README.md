@@ -5,12 +5,12 @@
 SO - Standard output  
 SI - Standard input
 
-## Exercise 1 ([ex1.c](/ex1.c))
+## Exercise 1 ([ex1.c](ex1.c))
 
 An integer **x** is read from SI.  
 Print 1 on SO if **x** ∈ (-100, 100) U [200, 300), otherwise print 0.
 
-## Exercise 2 ([ex2.c](/ex2.c))
+## Exercise 2 ([ex2.c](ex2.c))
 
 Write a program that reads user's account balance (from SI).  
 Afterwards, read 5 amounts. The amounts represent transactions.
@@ -19,7 +19,7 @@ If the amount is positive, then the transaction is a deposit, otherwise, it's a 
 
 Print 1 on SO if after the 5 transactions the user still has some money on the account. If not, print 0.
 
-## Exercise 3 ([ex3.c](/ex3.c))
+## Exercise 3 ([ex3.c](ex3.c))
 
 The following information for a student is read from SI:
 
@@ -46,7 +46,7 @@ Student ID: 181021
 Awarded?: 0
 ```
 
-## Exercise 4 ([ex4.c](/ex4.c))
+## Exercise 4 ([ex4.c](ex4.c))
 
 Read from SI two integers (e.g. a, b). Write a program that will print all numbers from a to b (a < b), such that the
 number created as a product of the middle digits is divisible with the number created from the first and last digit.
