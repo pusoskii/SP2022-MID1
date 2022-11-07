@@ -19,9 +19,11 @@ add_executable(lab-1-task-1 laboratory-exercises/lab-ex-1/task1.c)
 add_executable(lab-1-task-2 laboratory-exercises/lab-ex-1/task2.c)
 add_executable(lab-1-task-3 laboratory-exercises/lab-ex-1/task3.c)
 
-add_executable(add-ex-1 additional-exercises/ex1.c additional-exercises/ex1.c)
-add_executable(add-ex-2 additional-exercises/ex2.c additional-exercises/ex2.c)
-add_executable(add-ex-3 additional-exercises/ex3.c additional-exercises/ex3.c)
+add_executable(add-ex-1 additional-exercises/ex1.c)
+add_executable(add-ex-2 additional-exercises/ex2.c)
+add_executable(add-ex-3 additional-exercises/ex3.c)
 
 add_executable(lab-2-task-2 laboratory-exercises/lab-ex-2/task2.c)
 add_executable(lab-2-task-3 laboratory-exercises/lab-ex-2/task3.c)
+
+add_executable(add-ex-4 additional-exercises/ex4.c)

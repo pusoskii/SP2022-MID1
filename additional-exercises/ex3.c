@@ -1,20 +1,3 @@
-// The following information for a FINKI student is read from SI:
-// ID number (6-digit integer), 6 grades from the last semester
-
-// Write a program that on SO will print the following information for the student (take a look at the test cases for the format):
-// Average grade -> should be printed with 3 decimal places
-// Year of studies -> The students whose index starts with 21 are in second year, 20 are in third year, 19 are fourth year etc.
-// Awarded student (1 = awarded, 0 = otherwise) -> A student is awarded if their average grade is greater or equal to 9.5
-
-// Input:
-// 181021 9 9 10 10 10 8
-
-// Output:
-// Average grade: 9.333
-// Student ID: 181021
-// 5 year
-// Awarded?: 0
-
 #include <stdio.h>
 
 int main() {
