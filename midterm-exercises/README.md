@@ -72,5 +72,26 @@ first number on its first place is greater that the second number in the pair or
 Print on SO "YES" if the condition is satisfied or "NO" if the condition is not satisfied on in a single line for each
 pair of numbers.
 
-(Example for moving the last digit of a number on its first place: 1234 -> 4123, 98700 -> 9870). If the numbers 3456 and
+#### -Example-
+
+Moving the last digit: 1234 -> 4123, 98700 -> 9870. If the numbers 3456 and
 6210 are entered as a pair "YES" should be printed since 6345 > 6210.
+
+**Input:**
+
+```
+4
+56 4532
+423 90
+90 300
+543 300
+```
+
+**Output:**
+
+```
+NO
+YES
+NO
+YES
+```
