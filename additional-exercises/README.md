@@ -1,25 +1,15 @@
 # Additional Exercises
 
-## Acronyms
+## [Exercise 1](ex1.c)
 
-SO - Standard output  
-SI - Standard input
-
-## Exercise 1 ([ex1.c](ex1.c))
-
-An integer **x** is read from SI.  
-Print 1 on SO if **x** ∈ (-100, 100) U [200, 300), otherwise print 0.
-
-## Exercise 2 ([ex2.c](ex2.c))
-
-Write a program that reads user's account balance (from SI).  
+Write a program that reads user's account balance (from SI).\
 Afterwards, read 5 amounts. The amounts represent transactions.
 
 If the amount is positive, then the transaction is a deposit, otherwise, it's a withdrawal.
 
 Print 1 on SO if after the 5 transactions the user still has some money on the account. If not, print 0.
 
-## Exercise 3 ([ex3.c](ex3.c))
+## [Exercise 2](ex2.c)
 
 The following information for a student is read from SI:
 
@@ -46,32 +36,33 @@ Student ID: 181021
 Awarded?: 0
 ```
 
-## Exercise 4 ([ex4.c](ex4.c))
+## [Exercise 3](ex3.c)
 
-Read from SI two integers (e.g. a, b). Write a program that will print all numbers from a to b (a < b), such that the
-number created as a product of the middle digits is divisible with the number created from the first and last digit.
+From standard input, two numbers (x and n) are entered, then n integers. You need to check if the number x is contained
+in
+the entered n numbers from the keyboard. x will always be less than the n numbers entered after it.
+
+Numbers that meet the requirement need to be printed on the screen. If there are none, print "None".
+
+#### -Example-
+
+First x and n are entered (let x = 23, n = 4). Then n (in this case 4) numbers are entered from the keyboard (
+let them be 1234, 2333, 1122, 1114455). The numbers to be printed on the screen are: 1234 and 2333 because they contain
+the number x (in this case 23).
+
+**Input:**
 
 ```
-xyyyx
-x -> first/last digit
-y -> middle digit
+23 4
+1234
+2333
+121134
+341125
 ```
 
-Do not print the numbers where the product of the middle digits is 0. At the end print the count of printed numbers.
-
-When printing out the numbers, next to each number that satisfies the condition, print the equation of that condition,
-for example: ```55650 -> (150 == 50 * 3)```, where 150 = 5 * 6 * 5 and 50 is constructed from 5 (the first digit) and
-the 0 (the last digit of the number).
+**Output:**
 
 ```
-Input:
-55560 55800
-
-Output:
-55560 -> (150 == 50 * 3)
-55580 -> (200 == 50 * 4)
-55650 -> (150 == 50 * 3)
-55694 -> (270 == 54 * 5)
-55786 -> (280 == 56 * 5)
-5
+1234
+2333
 ```

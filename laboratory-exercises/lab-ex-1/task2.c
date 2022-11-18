@@ -1,6 +1,3 @@
-// Write a program that computes average grade of semester.
-// The program reads 5 integers and should print out the average as floating point number with two decimal places.
-
 #include <stdio.h>
 
 int main() {

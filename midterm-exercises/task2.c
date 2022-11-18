@@ -14,9 +14,9 @@ int main() {
 
     // Go through all the numbers in the range
     for (int i = rangeStart; i <= rangeEnd; i++) {
-        
+
         int firstDigit, lastDigit, middleDigits, divisor, quotient;
-        int numberOfDigits = 0, currentNumber = i, tmp = 0;
+        int numberOfDigits = 0, currentNumber = i, tmp;
 
         // Count the number of digits in the current number
         while (currentNumber != 0) {

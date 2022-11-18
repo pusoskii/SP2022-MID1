@@ -1,10 +1,13 @@
 #include <stdio.h>
 
 int main() {
-    int x;
-    scanf("%d", &x);
+    int accountAvailableAmount, transactionOne, transactionTwo, transactionThree, transactionFour, transactionFive, transactionTotal;
+    scanf("%d", &accountAvailableAmount);
+    scanf("%d%d%d%d%d", &transactionOne, &transactionTwo, &transactionThree, &transactionFour, &transactionFive);
 
-    printf("%d", (x > -100 && x < 100) || (x >= 200 && x < 300) ? 1 : 0);
+    transactionTotal = transactionOne + transactionTwo + transactionThree + transactionFour + transactionFive;
+
+    printf("%d", accountAvailableAmount + transactionTotal > 0 ? 1 : 0);
 
     return 0;
 }

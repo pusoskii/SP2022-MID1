@@ -1,8 +1,3 @@
-// Palindrome numbers
-// Read a six-digit number from SI. On SO print 1 if the first is equal to the last,
-// second is equal to the fifth, and third is equal to the fourth digit of that number.
-// Otherwise, print 0.
-
 #include <stdio.h>
 
 int main() {

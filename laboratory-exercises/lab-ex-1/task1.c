@@ -1,12 +1,10 @@
-// Write a program that will read two integers from SI and on SO will print their sum and product.
-
 #include <stdio.h>
 
 int main() {
-    int a, b, sum, product;
+    int firstNumber, secondNumber;
 
-    scanf("%d%d", &a, &b);
-    printf("%d\n", a + b);
-    printf("%d\n", a * b);
+    scanf("%d%d", &firstNumber, &secondNumber);
+    printf("%d\n", firstNumber + secondNumber);
+    printf("%d\n", firstNumber * secondNumber);
     return 0;
 }
