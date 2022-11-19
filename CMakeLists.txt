@@ -28,8 +28,10 @@ add_executable(lab-2-task-2 laboratory-exercises/lab-ex-2/task2.c)
 add_executable(lab-2-task-3 laboratory-exercises/lab-ex-2/task3.c)
 
 add_executable(mid-task-2 midterm-exercises/task2.c)
+add_executable(mid-task-4 midterm-exercises/task4.c)
 add_executable(mid-task-11 midterm-exercises/task11.c)
 add_executable(mid-task-12 midterm-exercises/task12.c)
+add_executable(mid-task-13 midterm-exercises/task13.c)
 
 add_executable(lab-3-task-1 laboratory-exercises/lab-ex-3/task1.c)
 add_executable(lab-3-task-2 laboratory-exercises/lab-ex-3/task2.c)
