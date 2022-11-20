@@ -33,6 +33,27 @@ the 0 (the last digit of the number).
 5
 ```
 
+## [Task 3](task3.c)
+
+Using the characters + and - form a square image with "width" n (n > 2) that represent square of the chars -, enclosed
+by a square of chars + (view examples). For given n, print the appropriate image.
+
+Note: Do not print additional characters as empty spaces, or unnecessary new line... The image ends with new line char.
+Do not use any matrix or arrays because n is not limited.
+
+**Input:**
+```5```
+
+**Output:**
+
+```
++++++
++---+
++---+
++---+
++++++
+```
+
 ## [Task 4](task4.c)
 
 From SI are read N pairs of integers, where the first number is the students' points, and the second is the max. points.
