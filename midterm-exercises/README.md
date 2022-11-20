@@ -7,12 +7,13 @@ number created as a product of the middle digits is divisible with the number cr
 At the end print the count of printed numbers.
 
 ```
-xyyyx
-x -> first/last digit
-y -> middle digit
+xyyyz
+x -> first
+yyy -> middle digits
+z -> last digit
 ```
 
-Do not print the numbers where the product of the middle digits is 0.
+**Do not** print the numbers where the product of the middle digits is 0.
 
 When printing out the numbers, next to each number that satisfies the condition, print the equation of that condition,
 for example: ```55650 -> (150 == 50 * 3)```, where 150 = 5 * 6 * 5 and 50 is constructed from 5 (the first digit) and
