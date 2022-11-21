@@ -23,7 +23,7 @@ int main() {
     }
 
     float percentage = (float) (100 * validPairs) / enteredPairs;
-    printf("You entered %d pair of numbers whose sum is %d\n"
+    printf("You entered %d pair(s) of numbers whose sum is %d\n"
            "The percentage of pairs with sum %d is %.2f%%", validPairs, sum, sum, percentage);
 
     return 0;

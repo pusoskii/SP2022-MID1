@@ -54,6 +54,18 @@ Do not use any matrix or arrays because n is not limited.
 +++++
 ```
 
+Check out the variation of this task [here](task3-variation.c).
+
+**Output of variation:**
+
+```
++***+
++---+
++---+
++---+
++***+
+```
+
 ## [Task 4](task4.c)
 
 From SI are read N pairs of integers, where the first number is the students' points, and the second is the max. points.
@@ -84,6 +96,34 @@ following these rules:
 67.50 7
 78.57 8
 38.00 FAIL
+```
+
+## [Task 10](task10.c)
+
+Write a program where from SI you read one positive integer z,
+and afterwards you read one after another pairs of integers (a, b).Thereby, the loop should end once you enter the
+pair (0, 0).
+
+The program should calculate how many times the integer z is equal to the sum of the pairs a and b,
+as well as the percentage of the pairs (a,b) that give sum equal to z. Note: the pair (0,0) is not taken into account
+when doing calculations!
+
+**Input:**
+
+```
+100
+50 50
+-50 -50
+-99 199
+32 98
+0 0
+```
+
+**Output:**
+
+```
+You entered 2 pair(s) of numbers whose sum is 100
+The percentage of pairs with sum 100 is 50.00%
 ```
 
 ## [Task 11](task11.c)
