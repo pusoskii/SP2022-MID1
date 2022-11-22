@@ -98,6 +98,17 @@ following these rules:
 38.00 FAIL
 ```
 
+## [Task 7](task7.c)
+
+Read from SI one integer n. From the integers smaller than n, find the one with maximum sum of divisors.
+Do not count the number itself in the sum of divisors.
+
+**Input:**
+```50```
+
+**Output:**
+```48```
+
 ## [Task 10](task10.c)
 
 Write a program where from SI you read one positive integer z,
