@@ -96,3 +96,35 @@ Group 2
 Group 3
 20147 20139 19458
 ```
+
+## [Exercise 5](ex5.c)
+
+In a game of Bingo, an unknown number of numbers with values between 1 and 90 are entered in order.
+More than 8 numbers are always entered. Assume that the input stops when a number that is not in the range of values is
+entered.
+
+Apart from the main number, players also play on a Joker number. The joker number is formed in the following way:
+The _least significant digits_ of the first 7 numbers are added together, and all subsequent numbers entered are added
+to that
+number. Your task is to print the resulting number.
+
+**Input:**
+
+```
+22 //least significant digit is 2
+14 //least significant digit is 4
+33 //least significant digit is 3 ...
+59
+10
+17
+4
+60
+30
+0 //invalid input, end of program
+```
+
+**Output:**
+
+```
+2439164
+```
